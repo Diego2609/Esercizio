@@ -11,7 +11,7 @@ import javax.servlet.http.HttpServletResponse;
 
 import it.dstech.data.GestioneDatabase;
 
-@WebServlet(name = "controlloAzione", urlPatterns = { "/controlloAzione", "/" })
+@WebServlet(name = "controlloAzione", urlPatterns = { "/controlloAzione" })
 public class Controller extends HttpServlet {
 
 	@Override

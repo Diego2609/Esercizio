@@ -7,7 +7,7 @@
 <title>Aggiungi Utente</title>
 </head>
 <body>
-	<form action="registrazione" method="post">
+	<form action="aggiungiUtente" method="post">
 
 		<input type="text" id="nome" name="nome"  placeholder="nome" required="required"> <br>
 		<input type="text" id="cognome" name="cognome" 	placeholder="cognome" required="required"> <br>
